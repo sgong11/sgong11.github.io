@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website. I am a Postdoctoral Associate at the Center of Hierarchical and Robust Modeling for Non-Equilibrium Transport (CHARMNET) at Michigan State University. 
+Welcome to my academic website. I am a Postdoctoral Associate at the Center of Hierarchical and Robust Modeling for Non-Equilibrium Transport (CHaRMNET) at Michigan State University. 
 
 My research focuses on analyzing, developing, and implementing structure-preserving and efficient numerical methods for a broad class of partial differential equations (PDEs). A unifying theme of my work is the design of solvers that respect the underlying geometric and physical structures of governing equations. This ranges from methods built on finite element exterior calculus (FEEC) and spline theory for electromagnetism and elasticity, to kernel-based and adaptive-rank solvers for kinetic and quantum systems.
 
