@@ -11,18 +11,22 @@ My research develops structure-preserving and efficient numerical methods for pa
 
 ## Adaptive-Rank Methods for Wigner--Poisson Systems
 
-<div style="text-align: center;">
-  <img src="/images/WPTSI.png" alt="Adaptive-rank Wigner--Poisson simulation" style="max-width: 45%; height: auto;">
-  <p style="font-size: 0.9em; color: #666;">
-    Adaptive-rank simulation framework for Wigner--Poisson systems.
-  </p>
-</div>
+<div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin-bottom: 20px;">
 
-<div style="text-align: center;">
-  <img src="/images/KEEN.png" alt="Adaptive-rank Wigner--Poisson simulation" style="max-width: 45%; height: auto;">
-  <p style="font-size: 0.9em; color: #666;">
-    Adaptive-rank simulation framework for Wigner--Poisson systems.
-  </p>
+  <div style="flex: 1 1 300px; max-width: 48%; text-align: center;">
+    <img src="/images/WPTSI.png" alt="Two-stream instability simulation for the Wigner--Poisson system" style="width: 100%; height: auto;">
+    <p style="font-size: 0.9em; color: #666;">
+      Adaptive-rank simulation for the Wigner--Poisson system.
+    </p>
+  </div>
+
+  <div style="flex: 1 1 300px; max-width: 48%; text-align: center;">
+    <img src="/images/KEEN.png" alt="Quantum kinetic modeling of KEEN waves" style="width: 100%; height: auto;">
+    <p style="font-size: 0.9em; color: #666;">
+      Quantum kinetic modeling of KEEN waves in a warm-dense regime.
+    </p>
+  </div>
+
 </div>
 
 The Wigner--Poisson system is a phase-space model for quantum transport and plasma-related applications. Direct simulation is computationally expensive because of the high-dimensional phase space and the nonlocal Wigner potential term.
@@ -42,7 +46,7 @@ My recent work develops structure-preserving adaptive-rank methods for Wigner--P
 ## Kernel-Based Methods and MOLT Operators
 
 <div style="text-align: center;">
-  <img src="/images/MOLT" alt="Kernel-based MOLT operator" style="max-width: 85%; height: auto;">
+  <img src="/images/MOLT.png" alt="Kernel-based MOLT operator" style="max-width: 85%; height: auto;">
   <p style="font-size: 0.9em; color: #666;">
     Kernel-based operator framework for differential operators.
   </p>
