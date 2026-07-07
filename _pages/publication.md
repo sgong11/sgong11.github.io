@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 For the most up-to-date list, see my [Google Scholar profile](https://scholar.google.com/citations?user=Nc6ouw4AAAAJ&hl=en).
 
 ## Published or Accepted
