@@ -70,14 +70,14 @@ A related goal is to design compatible kernel-based differential operators whose
 <div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin-bottom: 20px;">
 
   <div style="flex: 1 1 300px; max-width: 48%; text-align: center;">
-    <img src="/images/WFmesh.png" alt="Finite element exterior calculus and Worsey-Farin splits" style="max-width: 48%; height: auto;">
+    <img src="/images/WFmesh.png" alt="Finite element exterior calculus and Worsey-Farin splits" style="max-width: 100%; height: auto;">
     <p style="font-size: 0.9em; color: #666;">
       Adaptive-rank simulation for the Wigner--Poisson system.
     </p>
   </div>
 
   <div style="flex: 1 1 300px; max-width: 48%; text-align: center;">
-    <img src="/images/dofig.pdf" alt="Elastistic element on Worsey-Farin" style="max-width: 48%; height: auto;">
+    <img src="/images/dofig.png" alt="Elastistic element on Worsey-Farin" style="max-width: 100%; height: auto;">
     <p style="font-size: 0.9em; color: #666;">
       Quantum kinetic modeling of KEEN waves in a warm-dense regime.
     </p>
