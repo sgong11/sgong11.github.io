@@ -25,15 +25,15 @@ For the most up-to-date list, see my [Google Scholar profile](https://scholar.go
    [[arXiv]](https://arxiv.org/abs/2510.23690)
 
 6. A. Christlieb, S. Gong, J.-M. Qiu, and N. Zheng. *[A Sampling-Based Adaptive Rank Approach to the Wigner--Poisson System](https://arxiv.org/abs/2506.21314)*. Accepted by SIAM Journal on Scientific Computing, 2026.  
-   [[arXiv]](https://arxiv.org/abs/2506.21314) [[PDF]](https://arxiv.org/pdf/2506.21314)
+   [[arXiv]](https://arxiv.org/abs/2506.21314)
 
 ## Preprints and Submitted Manuscripts
 
 1. A. Christlieb, L. Chacón, and S. Gong. *[An Energy-Conserving Unstaggered Electromagnetic-Potential Particle-in-Cell Method, Part I: Non-relativistic Generalized-Momentum Formulation](https://arxiv.org/abs/2606.15035)*. Submitted to SIAM Journal on Scientific Computing.  
-   [[arXiv]](https://arxiv.org/abs/2606.15035) [[PDF]](https://arxiv.org/pdf/2606.15035)
+   [[arXiv]](https://arxiv.org/abs/2606.15035)
 
 2. A. Christlieb, S. Gong, J.-M. Qiu, and N. Zheng. *[A Structure-Preserving Adaptive-Rank Approach to the High-Dimensional Wigner--Poisson System](https://arxiv.org/abs/2606.15067)*. Submitted to SIAM Journal on Scientific Computing.  
-   [[arXiv]](https://arxiv.org/abs/2606.15067) [[PDF]](https://arxiv.org/pdf/2606.15067)
+   [[arXiv]](https://arxiv.org/abs/2606.15067)
 
 3. A. Christlieb, S. Gong, F. A. Padilla-Gomez, and J.-M. Qiu. *[A Conservative Adaptive Rank Method for the Wigner--Poisson System](https://arxiv.org/abs/2606.20234)*. Submitted to Journal of Scientific Computing.  
    [[arXiv]](https://arxiv.org/abs/2606.20234)
