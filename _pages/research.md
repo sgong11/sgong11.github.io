@@ -79,7 +79,7 @@ A related goal is to design compatible kernel-based differential operators whose
   <div style="flex: 1 1 300px; max-width: 48%; text-align: center;">
     <img src="/images/dofig.png" alt="Elastistic element on Worsey-Farin" style="max-width: 100%; height: auto;">
     <p style="font-size: 0.9em; color: #666;">
-      Quantum kinetic modeling of KEEN waves in a warm-dense regime.
+      Elastistic element on Worsey-Farin.
     </p>
   </div>
 
