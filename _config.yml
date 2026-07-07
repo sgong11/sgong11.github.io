@@ -55,9 +55,10 @@ author:
   name: "Sining Gong"
   pronouns:
   bio: "Postdoctoral Associate, Department of Computational Mathematics, Science and Engineering, Michigan State University"
+  avatar: "atBrown.JPG" # You will need to upload a photo of yourself to the /images/ folder
   location: "East Lansing, MI"
   employer: "Michigan State University"
-  uri: "https://sgong11.github.io"
+  # uri: "https://sgong11.github.io"
   email: "gongsini@msu.edu"
   googlescholar: "https://scholar.google.com/citations?user=Nc6ouw4AAAAJ&hl=en"
   orcid: "https://orcid.org/0000-0002-8049-2302"
