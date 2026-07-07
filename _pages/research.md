@@ -67,11 +67,22 @@ A related goal is to design compatible kernel-based differential operators whose
 
 ## Finite Element Exterior Calculus and Spline Methods
 
-<div style="text-align: center;">
-  <img src="/images/WFmesh.png" alt="Finite element exterior calculus and Worsey-Farin splits" style="max-width: 85%; height: auto;">
-  <p style="font-size: 0.9em; color: #666;">
-    Structure-preserving finite element methods based on FEEC and Worsey--Farin splits.
-  </p>
+<div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin-bottom: 20px;">
+
+  <div style="flex: 1 1 300px; max-width: 48%; text-align: center;">
+    <img src="/images/WFmesh.png" alt="Finite element exterior calculus and Worsey-Farin splits" style="max-width: 48%; height: auto;">
+    <p style="font-size: 0.9em; color: #666;">
+      Adaptive-rank simulation for the Wigner--Poisson system.
+    </p>
+  </div>
+
+  <div style="flex: 1 1 300px; max-width: 48%; text-align: center;">
+    <img src="/images/dogig.pdf" alt="Finite element exterior calculus and Worsey-Farin splits" style="max-width: 48%; height: auto;">
+    <p style="font-size: 0.9em; color: #666;">
+      Quantum kinetic modeling of KEEN waves in a warm-dense regime.
+    </p>
+  </div>
+
 </div>
 
 My Ph.D. research focused on structure-preserving finite element methods using finite element exterior calculus and spline theory. I studied Lagrange finite elements for Maxwell eigenvalue problems on Worsey--Farin splits and developed discrete elasticity exact sequences in three dimensions.
