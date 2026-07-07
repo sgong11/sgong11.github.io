@@ -72,7 +72,7 @@ A related goal is to design compatible kernel-based differential operators whose
   <div style="flex: 1 1 300px; max-width: 48%; text-align: center;">
     <img src="/images/WFmesh.png" alt="Finite element exterior calculus and Worsey-Farin splits" style="max-width: 100%; height: auto;">
     <p style="font-size: 0.9em; color: #666;">
-      Adaptive-rank simulation for the Wigner--Poisson system.
+      Structure-preserving finite element methods based on FEEC and Worsey--Farin splits.
     </p>
   </div>
 
