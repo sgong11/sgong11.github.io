@@ -101,4 +101,4 @@ This work connects spline complexes, discrete de Rham sequences, bounded commuti
 
 ## Future Directions
 
-Going forward, I am interested in developing scalable, structure-preserving solvers for multiscale physical models by combining numerical analysis, high-performance computing, adaptive-rank methods, kernel-based operators, and machine-learning techniques for kinetic closure problems.
+Going forward, I am interested in developing scalable, structure-preserving solvers for multiscale physical models by combining numerical analysis, high-performance computing, adaptive-rank methods, kernel-based operators, and machine-learning techniques.
